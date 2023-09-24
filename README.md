@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=false&vCenter=false&repeat=false&width=435&lines=Innovate%7CElevate%7CDominate)](https://git.io/typing-svg)
 # 💫 About Me:
 Hey there! 👋 We're Prepcrazy, the fun-loving techies behind some of the coolest AI-powered SaaS solutions on the planet! 🌍💡<br>From startups to industry giants, we've got everyone covered with our cutting-edge software. Our mission? To make the world of business smarter, one algorithm at a time! 🤖📈
 
